@@ -99,3 +99,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# =========================
+# Data Files
+# =========================
+
+# Raw Competition Files
+# =========================
+
+data/
